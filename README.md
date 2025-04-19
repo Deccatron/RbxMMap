@@ -70,5 +70,7 @@ A perfect base for:
 
 ## 🛠️ Disclaimer
 
-This is a near-complete implementation of an advanced manual mapping injector for Roblox.  
-While it currently encounters access violation issues, it serves as an excellent starting point for any developer looking to understand or build upon modern manual mapping techniques.
+This project is a near-complete implementation of an advanced manual mapping injector tailored for Roblox.  
+While it currently experiences access violation issues, it’s designed as a **Swiss army knife for memory injection** — packed with powerful features, modular structure, and robust bypasses.  
+Perfect as a learning resource or a solid base to build your own stealthy injection tool.
+
